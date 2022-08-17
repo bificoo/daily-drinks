@@ -5,5 +5,7 @@ npm-debug.*
 yarn-error.log
 
 .DS_Store
+.history
+dist/
 
 __snapshots__/

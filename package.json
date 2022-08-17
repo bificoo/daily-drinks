@@ -6,7 +6,8 @@
     "scripts": {
         "start": "webpack-dev-server --mode development --open",
         "build": "webpack --mode production",
-        "test": "jest --config=jest.config.js --coverage --watchAll"
+        "test": "jest --config=jest.config.js --coverage --watchAll",
+        "deploy": "gh-pages -d dist"
     },
     "author": "bificoo",
     "license": "MIT",
@@ -40,6 +41,7 @@
         "webpack-dev-server": "^3.3.1"
     },
     "dependencies": {
+        "gh-pages": "^4.0.0",
         "normalize.css": "^8.0.1",
         "react": "^16.8.6",
         "react-dom": "^16.8.6"
