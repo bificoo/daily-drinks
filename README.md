@@ -1,5 +1,5 @@
-# dailydrinks
-Order drinks app.
+# Daily Drinks
+DEMO：https://bificoo.github.io/dailydrinks/
 
 ## Build Setup
 ```
