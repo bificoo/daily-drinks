@@ -1,5 +1,5 @@
 # Daily Drinks
-DEMO：https://bificoo.github.io/dailydrinks/
+DEMO：https://bificoo.github.io/daily-drinks/
 
 ## Build Setup
 ```
